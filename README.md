@@ -1,4 +1,4 @@
-#This is a Jupyter Notebook that allows facial recognition using the OpenCV library
+This is a Jupyter Notebook that allows facial recognition using the OpenCV library
 
 <a link="https://opencv.org/">Open CV https://opencv.org/<a>
 
